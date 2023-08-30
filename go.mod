@@ -1,3 +1,3 @@
-module github.com/SamuelOuellet/atelier3
+module github.com/SamuelOuellet/mobile-atelier3
 
 go 1.21.0
